@@ -3,30 +3,16 @@ title: SemEval-2025: Call for Task Proposals
 ---
 
 # Call for Task Proposals
+We invite proposals for tasks to be run as part of SemEval-2025. SemEval (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of [SIGLEX](https://siglex.org/), the Special Interest Group on the Lexicon of the Association for Computational Linguistics.
 
-We invite proposals for tasks to be run as part of SemEval-2024.
-SemEval (the International Workshop on Semantic Evaluation)
-is an ongoing series of evaluations of computational semantics systems,
-organized under the umbrella of [SIGLEX](https://siglex.org/),
-the Special Interest Group on the Lexicon of the Association for Computational Linguistics.
-
-SemEval tasks explore the nature of meaning in natural languages:
+SemEval tasks explore the nature of meaning in natural languages: 
 how to characterize meaning and how to compute it.
-This is achieved in practical terms, using shared datasets and standardized evaluation metrics
-to quantify the strengths and weaknesses and possible solutions.
-SemEval tasks encompass a broad range of semantic topics from the lexical level to the discourse level,
-including word sense identification, semantic parsing, coreference resolution, and sentiment analysis, among others.
+This is achieved in practical terms, using shared datasets and standardized evaluation metrics to quantify the strengths and weaknesses and possible solutions. 
+SemEval tasks encompass a broad range of semantic topics from the lexical level to the discourse level, including word sense identification, semantic parsing, coreference resolution, and sentiment analysis, among others.
 
-For SemEval-2025, we welcome any task that can test an automatic system for semantic analysis of text,
-which could be an intrinsic semantic evaluation, or an application-oriented evaluation.
-We especially encourage tasks for languages other than English, cross-lingual tasks,
-and tasks that develop novel applications of computational semantics.
-See the websites of previous editions of SemEval to get an idea about the range of tasks explored,
-[SemEval-2023](https://semeval.github.io/SemEval2023/) and [SemEval-2024](https://semeval.github.io/SemEval2024/).
+For SemEval-2025, we welcome tasks that can test an automatic system for the semantic analysis of  text (e.g., intrinsic semantic evaluation, or an application-oriented evaluation). We especially encourage tasks for languages other than English, cross-lingual tasks, and tasks that develop novel applications of computational semantics. See the websites of previous editions of SemEval to get an idea about the range of tasks explored, e.g. [SemEval-2020](http://alt.qcri.org/semeval2020/) and [SemEval-2021-/2023/2024](https://semeval.github.io).
 
-We strongly encourage proposals based on pilot studies that have already generated initial data,
-as this can provide concrete examples and can help to foresee the challenges of preparing the full task.
-In the event of receiving many proposals, preference will be given to proposals that have already run a pilot study.
+We strongly encourage proposals based on pilot studies that have already generated initial data, evaluation measures and baselines. In this way, we can avoid unforeseen challenges down the road which that may delay the task. 
 
 In case you are not sure whether a task is suitable for SemEval,
 please feel free to get in touch with the SemEval organizers
@@ -55,6 +41,10 @@ Is the necessary infrastructure available or can it be built in time for the sha
 Will research inspired by this task be able to evaluate in the same manner and on the same data after the initial task?
 - Impact:
 What is the expected impact of the data in this task on future research beyond the SemEval Workshop?
+- Ethical – these are representative and not exhaustive
+   - concerns: refine with privacy (don’t identify people) 
+   - Personally identifiable information PII a) tasks aimed at identifying specific people will not be accepted, b) use in the task (e.g., compliance with HIPAA)
+  - medical decision making (do not try to replace medical professionals, especially if it has anything to do with mental health)
 
 ## New Tasks vs. Task Reruns
 
@@ -84,8 +74,7 @@ unless a license has been provided, the author retains
 all rights associated with their work, including copying, sharing and publishing.
 For more information, see: https://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter
 - Resolve any potential security, privacy, or ethical concerns about the data
-- Make the data available in a long-term repository under an appropriate license,
-preferably using Zenodo: https://zenodo.org/communities/semeval/
+- Commit to make the data available after the task
 - Provide task participants with format checkers and standard scorers.
 - Provide task participants with baseline systems to use as a starting point
 (in order to lower the obstacles to participation).
@@ -96,12 +85,22 @@ Whenever possible, baseline systems should be written in widely used programming
 and/or should be implemented as a component for standard NLP pipelines.
 - Create a mailing list and website for the task and post all relevant information there.
 - Create a CodaLab or other similar competition for the task and upload the evaluation script.
-- Manage submissions on CodaLab or the similar competition site.
+- Manage submissions on CodaLab or a similar competition site.
 - Write a task description paper to be included in SemEval proceedings, and present it at the workshop.
 - Manage participants’ submissions of system description papers,
 manage participants’ peer review of each others’ papers,
 and possibly shepherd papers that need additional help in improving the writing.
 - Review other task description papers.
+- Define Roles for each Organizer:
+  - Lead Organizer - main point of contact, expected to ensure deliverables are met on time and participate in contributing to task duties (see below).
+  - Co-Organizers - provide significant contributions to ensuring the task runs smoothly. Some examples include, maintaining communication with task participants, preparing data, creating and running evaluation scripts, and leading paper reviewing and acceptance. 
+  - Advisory Organizers - more of a supervisor role, may not contribute to detailed tasks but will provide guidance and support.
+
+## Desk Rejects
+- To ensure tasks have sufficient support we require at minimum two organizers at the time of proposal submission. A task proposal with only one organizer will be desk rejected. Running a SemEval task is a significant time commitment, therefore we highly encourage a task to have at least 3-4 organizers.
+- A person can be a lead organizer on only one task. The second mandatory organizer on the task must be committed to the task as a key co-organizer. Any other organizers can participate in other tasks.
+- All data should have a research friendly license. The licensing must be provided in the proposal.
+- Task organizers must commit to keeping the data available after the task, either by keeping the task alive, by uploading it to [Zenodo](https://zenodo.org/communities/semeval/?q=&l=list&p=1&s=20&sort=newest)  or some other public data storage location that will be permanent and sharing the link with the organizers.
 
 
 ## Important dates
@@ -124,7 +123,7 @@ and possibly shepherd papers that need additional help in improving the writing.
 
 Tasks that fail to keep up with crucial deadlines
 (such as the dates for having the task and CodaLab website up
-and dates for uploading sample, training, and evaluation data)
+and dates for uploading sample, training, and evaluation data) or that diverge significantly from the proposal
 may be cancelled at the discretion of SemEval organizers.
 While consideration will be given to extenuating circumstances,
 our goal is to provide sufficient time for the participants to develop strong and well-thought-out systems.
