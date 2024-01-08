@@ -11,7 +11,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2025 homepage!
 - Task proposals due 31 March 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 - Task selection notification 18 May 2024
 
-The submission webpage is: [SemEval2025 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/SemEval)
+The submission webpage is: [SemEval2025 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SemEval)
 
 
 
@@ -55,7 +55,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Organizers
 
-- [Atul Kr. Ojha](https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/atulkumarojha/), SFI Insight Centre for Data Analytics, DSI, University of Galway
+- [Atul Kr. Ojha](https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/atulkumarojha/), Insight SFI Centre for Data Analytics, DSI, University of Galway
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz), Ghent University
 - [Giovanni Da San Martino](https://scholar.google.fr/citations?user=URABLy0AAAAJ&hl=en), University of Padua
 - [Harish Tayyar Madabushi](https://www.harishtayyarmadabushi.com/), The University of Bath
