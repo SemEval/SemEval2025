@@ -41,10 +41,10 @@ Is the necessary infrastructure available or can it be built in time for the sha
 Will research inspired by this task be able to evaluate in the same manner and on the same data after the initial task?
 - Impact:
 What is the expected impact of the data in this task on future research beyond the SemEval Workshop?
-- Ethical – these are representative and not exhaustive
-   - concerns: refine with privacy (don’t identify people) 
-   - Personally identifiable information PII a) tasks aimed at identifying specific people will not be accepted, b) use in the task (e.g., compliance with HIPAA)
-  - medical decision making (do not try to replace medical professionals, especially if it has anything to do with mental health)
+- Ethical – the data must be compliant with privacy policies. e.g.
+    a) avoid personally identifiable information (PII). Tasks aimed at identifying specific people will not be accepted,
+    b) avoid medical decision-making (compliance with HIPAA, do not try to replace medical professionals, especially if it has anything to do with mental health)
+    c) these are representative and not exhaustive
 
 ## New Tasks vs. Task Reruns
 
