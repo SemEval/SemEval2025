@@ -12,7 +12,7 @@ SemEval tasks encompass a broad range of semantic topics from the lexical level 
 
 For SemEval-2025, we welcome tasks that can test an automatic system for the semantic analysis of  text (e.g., intrinsic semantic evaluation, or an application-oriented evaluation). We especially encourage tasks for languages other than English, cross-lingual tasks, and tasks that develop novel applications of computational semantics. See the websites of previous editions of SemEval to get an idea about the range of tasks explored, e.g. [SemEval-2020](http://alt.qcri.org/semeval2020/) and [SemEval-2021-/2023/2024](https://semeval.github.io).
 
-We strongly encourage proposals based on pilot studies that have already generated initial data, evaluation measures and baselines. In this way, we can avoid unforeseen challenges down the road which that may delay the task. 
+We strongly encourage proposals based on pilot studies that have already generated initial data, evaluation measures and baselines. In this way, we can avoid unforeseen challenges down the road which that may delay the task. For example, you may see [this task proposal](https://semeval.github.io/semeval2024_shared_task6_proposals_template.pdf) as a sample. 
 
 In case you are not sure whether a task is suitable for SemEval,
 please feel free to get in touch with the SemEval organizers
