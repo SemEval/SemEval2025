@@ -70,10 +70,6 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]]())<br>
   ABC
 
-<!---- **[Task 12: Emotion Flip Reasoning in Multiparty Conversations]()**
-  ([[contact organizers]](mailto:),
-  [[join task mailing list]]())<br>
-  ABC--->
 
 #### CONTACT
 For questions about particular tasks, email the task organizers at the addresses linked above. General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.
