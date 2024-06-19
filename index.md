@@ -72,7 +72,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Sponsorship
 
-SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
+SemEval is sponsored by the [SIGLEX](https://siglex.org/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
 
 
 __Contact:__ <semevalorganizers@gmail.com>
