@@ -50,7 +50,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Camera ready due 21 April 2025
 - SemEval workshop Summer 2025 (co-located with a major NLP conference)****
 
-All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)). -->
+All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 
 ### Organizers
