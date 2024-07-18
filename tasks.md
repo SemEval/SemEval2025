@@ -33,7 +33,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 5: LLMs4Subjects: LLM-based Automated Subject Tagging for a National Technical Library's Open-Access Catalog](https://sites.google.com/view/llms4subjects/home)**
   ([[contact organizers]](mailto:llms4subjects@gmail.com),
-  [[join task mailing list]](llms4subjects@googlegroups.com))<br>
+  [[join task mailing list]](mailto:llms4subjects@googlegroups.com))<br>
   Jennifer D'Souza, Mathias Begoin, Holger Israel, Berrit Genat, Sören Auer
 
 ### Fact Checking and Knowledge Verification 
