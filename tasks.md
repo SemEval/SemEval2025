@@ -50,7 +50,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 8: Question-Answering over Tabular Data](https://www.codabench.org/competitions/3360/)**
   ([[contact organizers]](mailto:jorgeosesgrijalba@gmail.com),
-  [[join task mailing list]](mailto:semeval-25-t8-tabularqa@googlegroups.com))<br>
+  [[join task mailing list]](https://groups.google.com/g/semeval-25-t8-tabularqa))<br>
   Jorge Osés Grijalba, L. Alfonso Ureña, Eugenio Martinez-Camara, Jose Camacho-Collados
   
 - **[Task 9: The Food Hazard Detection Challenge](https://food-hazard-detection-semeval-2025.github.io/)**
