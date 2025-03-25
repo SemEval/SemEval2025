@@ -25,12 +25,12 @@ The submission webpage is: [SemEval2025 Task Proposal Submission](https://openre
 ### Important dates for task participants
 
 - ~~Tasks announced (with sample data available): 15 July 2024~~
-- Training data ready 2 September 2024
-- Evaluation start 10 January 2025
-- Evaluation end by 31 January 2025 (latest date; task organizers may choose an earlier date)
-- Paper submission due 28 February 2025
-- Notification to authors 31 March 2025
-- Camera ready due 21 April 2025
+- ~~Training data ready 2 September 2024~~
+- ~~Evaluation start 10 January 2025~~
+- ~~Evaluation end by 31 January 2025 (latest date; task organizers may choose an earlier date)~~
+- ~~Paper submission due 28 February 2025~~
+- Notification to authors ~~31 March 2025~~ 7 April 2025
+- Camera ready due ~~21 April 2025~~ 28 April 2025
 - SemEval workshop 31 July - 1 August 2025 (co-located with [ACL 2025](https://2025.aclweb.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
@@ -40,14 +40,14 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - ~~[Task proposals](cft) due 31 March 2024~~
 - ~~Task selection notification 18 May 2024~~
 - ~~Sample data ready 15 July 2024~~
-- Training data ready 2 September 2024
-- Evaluation data ready 1 December 2024 (internal deadline; not for public release)
-- Evaluation start 10 January 2025
-- Evaluation end by 31 January 2025 (latest date; task organizers may choose an earlier date)
-- System paper submission due 28 February 2025
-- Task paper submission due 7 March 2025
-- Notification to authors 31 March 2025
-- Camera ready due 21 April 2025
+- ~~Training data ready 2 September 2024~~
+- ~~Evaluation data ready 1 December 2024 (internal deadline; not for public release)~~
+- ~~Evaluation start 10 January 2025~~
+- ~~Evaluation end by 31 January 2025 (latest date; task organizers may choose an earlier date)~~
+- ~~System paper submission due 28 February 2025~~
+- ~~Task paper submission due 7 March 2025~~
+- Notification to authors ~~31 March 2025~~ 7 April 2025
+- Camera ready due ~~21 April 2025~~ 28 April 2025
 - SemEval workshop 31 July - 1 August 2025 (co-located with [ACL 2025](https://2025.aclweb.org/)) 
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
