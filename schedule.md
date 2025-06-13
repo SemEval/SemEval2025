@@ -8,7 +8,7 @@ title: SemEval-2025 Schedule
 
 Online poster sessions will be held on Gather. 
 
-All in-person activities -oral presentations, poster sessions, and the invited talk- will be held in Hall M2. Oral sessions and invited talk will also be streamed on Zoom. 
+All in-person activities will be held in Hall M2. Oral sessions and invited talk will also be streamed on Zoom. <strong>CONFIRM POSTER SESSIONS LOCATION</strong>
 
 ### Thursday, July 31st
 
@@ -31,7 +31,7 @@ All in-person activities -oral presentations, poster sessions, and the invited t
 <em>12:30-14:00 Lunch break</em>
 
 
-<details><summary><strong>14:00-15:00 Oral Session II: Tasks 7-11</strong></summary>
+<details><summary><strong>14:00-15:15 Oral Session II: Tasks 7-11</strong></summary>
   
   - 14:00-14:15	SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval
   - 14:15-14:30	SemEval-2025 Task 8: Question-Answering over Tabular Data
@@ -40,15 +40,15 @@ All in-person activities -oral presentations, poster sessions, and the invited t
   - 15:00-15:15	SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 </details>
 
-<details><summary><strong>15:15-15:45 Oral Session III: Best Paper Awards</strong></summary>
+<details><summary><strong>15:15-15:45 Oral Session III: Best Paper Awards [MOVE TO SECOND DAY?]</strong></summary>
   
-  - 15:15-15:27 Best System Description Paper 1
-  - 15:27-15:45	Best System Description Paper 2
+  - 15:15-15:25 Best System Description Paper 1
+  - 15:25-15:35	Best System Description Paper 2
 </details>
 
-<em>15:45-16:15 Coffee break</em>
+<em>15:35-16:00 Coffee break</em>
 
-<details><summary><strong>15:45-17:30 Poster Session I (in person only)</strong></summary>
+<details><summary><strong>16:00-17:30 Poster Session I (in person only)</strong></summary>
 
   - 
   - 
