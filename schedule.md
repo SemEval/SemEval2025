@@ -40,7 +40,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
   - 15:00-15:15	SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 </details>
 
-<details><summary><strong>15:15-15:45 Oral Session III: Best Paper Awards [MOVE TO SECOND DAY?]</strong></summary>
+<details><summary><strong>15:15-15:35 Oral Session III: Best Paper Awards [MOVE TO SECOND DAY?]</strong></summary>
   
   - 15:15-15:25 Best System Description Paper 1
   - 15:25-15:35	Best System Description Paper 2
