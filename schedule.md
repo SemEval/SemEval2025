@@ -40,7 +40,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
   - 15:00-15:15	SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 </details>
 
-<details><summary><strong>15:15-15:35 Oral Session III: Best Paper Awards [MOVE TO SECOND DAY?]</strong></summary>
+<details><summary><strong>15:15-15:35 Oral Session III: Best Task Awards</strong></summary>
   
   - 15:15-15:25 Best System Description Paper 1
   - 15:25-15:35	Best System Description Paper 2
@@ -50,7 +50,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 <details><summary><strong>16:00-17:30 Poster Session I (in person only)</strong></summary>
 
-  - 
+  - 30 posters
   - 
   - 
   - 
@@ -102,23 +102,17 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 <em>10:30-11:00 Coffee break</em>
 
 
-<details><summary><strong>11:00-12:00 Poster Session III: System Description Papers (in person only)</strong></summary>
+<details><summary><strong>11:00-12:00 Oral Session III: Best System papers presentation</strong></summary>
 
-  - 
-  - 
-  -
-  -
-  -
-  -
 
 </details>
 
 
 <em>12:00-14:00 Lunch break</em>
 
-<details><summary><strong>14:00-15:30 Poster Session IV: System Description Papers (in person only)</strong></summary>
+<details><summary><strong>14:00-15:30 Poster Session III: System Description Papers (in person only)</strong></summary>
 
-  - 
+  - 30 posters 
   - 
   - 
   - 
@@ -132,4 +126,5 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 <em>15:30-16:00 Coffee break</em>
 
-<em>16:00-16:30 Concluding Remarks</em>
+<em>16:00-16:30  Concluding Remarks and Introducing new tasks</em>
+
