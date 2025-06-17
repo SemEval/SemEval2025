@@ -102,7 +102,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 <em>10:30-11:00 Coffee break</em>
 
 
-<details><summary><strong>11:00-12:00 Oral Session III: Best System papers presentation</strong></summary>
+<details><summary><strong>11:00-12:00 Oral Session IV: Best System papers presentation</strong></summary>
 
 
 </details>
