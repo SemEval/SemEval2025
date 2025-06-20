@@ -90,26 +90,66 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 <details><summary><strong>9:00-10:30 Poster Session II: System Description Papers (Online: Gather)</strong></summary>
 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
+  - VerbaNexAI at SemEval-2025 Task 9: Advances and Challenges in the Automatic Detection of Food Hazards
+  - CTYUN-AI at SemEval-2025 Task 1: Learning to Rank for Idiomatic Expressions
+  - TeleAI at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection with Prompt Engineering and Data Augmentation
+  - Anastasia at SemEval-2025 Task 9: Subtask 1, Ensemble Learning with Data Augmentation and Focal Loss for Food Risk Classification
+  - UNEDTeam at SemEval-2025 Task 10: Zero-Shot Narrative Classification
+  - DUTtask10 at SemEval-2025 Task 10: ThoughtFlow: Hierarchical Narrative Classification via Stepwise Prompting
+  - TechSSN3 at SemEval-2025 Task 9: Food Hazard and Product Detection - Category Identification and Vector Prediction
+  - CYUT at SemEval-2025 Task 6: Prompting with Precision – ESG Analysis via Structured Prompts
+  - Zuifeng at SemEval-2025 Task 9: Multitask Learning with Fine-Tuned RoBERTa for Food Hazard Detection
+  - FII the Best at SemEval 2025 Task 2: Steering State-of-the-art Machine Translation Models with Strategically Engineered Pipelines for Enhanced Entity Translation
+  - MRS at SemEval-2025 Task 11: A Hybrid Approach for Bridging the Gap in Text-Based Emotion Detection
+  - madhans476 at SemEval-2025 Task 9: Multi-Model Ensemble and Prompt-Based Learning for Food Hazard Prediction
+  - GT-NLP at SemEval-2025 Task 11: EmoRationale, Evidence-Based Emotion Detection via Retrieval-Augmented Generation
+  - IASBS at SemEval-2025 Task 11: Ensembling Transformers for Bridging the Gap in Text-Based Emotion
+  - Sakura at SemEval-2025 Task 2: Enhancing Named Entity Translation with Fine-Tuning and Preference Optimization
+  - Anaselka at SemEval-2025 Task 9: Leveraging SVM and MNB for Detecting Food Hazard
+  - QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval
+  - Trans-Sent at SemEval-2025 Task 11: Text-based Multi-label Emotion Detection using Pre-Trained BERT Transformer Models
+  - Team INSALyon2 at SemEval-2025 Task 10: A Zero-shot Agentic Approach to Text Classification
+  - SRCB at SemEval-2025 Task 9: LLM Finetuning Approach based on External Attention Mechanism in The Food Hazard Detection
+  - Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing
+  - Advacheck at SemEval-2025 Task 3: Combining NER and RAG to Spot Hallucinations in LLM Answers
+  - VerbaNexAI at SemEval-2025 Task 2: Enhancing Entity-Aware Translation with Wikidata-Enriched MarianMT
+  - CSECU-Learners at SemEval-2025 Task 9: Enhancing Transformer Model for Explainable Food Hazard Detection in Text
+  - AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection
+  - UPC-HLE at SemEval-2025 Task 7: Multilingual Fact-Checked Claim Retrieval with Text Embedding Models and Cross-Encoder Re-Ranking
+  - CSECU-Learners at SemEval-2025 Task 11: Multilingual Emotion Recognition and Intensity Prediction with Language-tuned Transformers and Multi-sample Dropout
+  - Amado at SemEval-2025 Task 11: Multi-label Emotion Detection in Amharic and English Data
+  - NarrativeNexus at SemEval-2025 Task 10: Entity Framing and Narrative Extraction using BART
+  - DEMON at SemEval-2025 Task 10: Fine-tuning LLaMA-3 for Multilingual Entity Framing
+  - JNLP SemEval 2025 Task 1 AdMIRe Multimodal Idiomaticity Representation 
+  - HU at SemEval-2025 Task 9: Leveraging LLM-Based Data Augmentation for Class Imbalance
+  - NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News
+  - Habib University at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
+  - WC Team at SemEval-2025 Task 6: PromiseEval: Multinational, Multilingual, Multi-Industry Promise Verification leveraging monolingual and multilingual BERT models
+  - CSIRO LT at SemEval-2025 Task 8: Answering Questions over Tabular Data using LLMs
+  - Oath Breakers at SemEval-2025 Task 06: Leveraging DeBERTa and Contrastive Learning for Promise Verification
+  - CLaC at SemEval-2025 Task 6: A Multi-Architecture Approach for Corporate Environmental Promise Verification
+  - TeleAI at SemEval-2025 Task 8: Advancing Table Reasoning Framework  with Large Language Models
+  - YNU-HPCC at SemEval-2025 Task 6: Using BERT Model with R-drop for Promise Verification
+  - PATeam at SemEval-2025 Task 9: LLM-Augmented Fusion for AI-Driven Food Safety Hazard Detection
+  - CSCU at SemEval-2025 Task 6: Enhancing Promise Verification with Paraphrase and Synthesis Augmentation: Effects on Model Performance
+  - UCSC at SemEval-2025 Task 3: Context, Models and Prompt Optimization for Automated Hallucination Detection in LLM Output
+  - YNU-HPCC at SemEval-2025 Task 10: A Two-Stage Approach to Solving Multi-Label and Multi-Class Role Classification Based on DeBERTa
+  - YNU at SemEval-2025 Task 4: Synthetic Token Alternative Training for LLM Unlearning
+  - JU-CSE-NLP’25 at SemEval-2025 Task 4: Learning to Unlearn LLMs
+  - pingan-team at SemEval-2025 Task 2: LoRA-Augmented Qwen2.5 with Wikidata-Driven Entity Translation
+  - YNU-HPCC at SemEval-2025 Task 1: Enhancing Multimodal Idiomaticity Representation via LoRA and Hybrid Loss Optimization
+  - JU_NLP at SemEval-2025 Task 7: Leveraging Transformer-Based Models for Multilingual & Crosslingual Fact-Checked Claim Retrieval
+  - UCSC NLP T6 at SemEval-2025 Task 1: Leveraging LLMs and VLMs for Idiomatic Understanding
+  - JUNLP_Sarika at SemEval-2025 Task 11: Bridging Contextual Gaps in Text-Based Emotion Detection using Transformer Models
+  - YNUzwt at SemEval-2025 Task 10: Tree-guided Stagewise Classifier for Entity Framing and Narrative Classification
+  - TECHSSN at SemEval-2025 Task 10: A Comparative Analysis of Transformer Models for Dominant Narrative-Based News Summarization
+  - KyuHyunChoi at SemEval-2025 Task 10: Narrative Extraction Using a Summarization-Specific Pretrained Model
+  - fact check AI at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-checked Claim Retrieval
+  - SHA256 at SemEval-2025 Task 4: Selective Amnesia – Constrained Unlearning for Large Language Models via Knowledge Isolation
+  - Team ACK at SemEval-2025 Task 2: Beyond Word-for-Word Machine Translation for English-Korean Pairs
+  - Jim at SemEval-2025 Task 5: Multilingual BERT Ensemble
+  - Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs
+  - RUC Team at SemEval-2025 Task 5: Fast Automated Subject Indexing via Similar Records Matching and Related Subject Ranking
 
 </details>
 
