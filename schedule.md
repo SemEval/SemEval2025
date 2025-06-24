@@ -8,13 +8,13 @@ title: SemEval-2025 Schedule
 
 Online poster sessions will be held on Gather. 
 
-All in-person activities will be held in Hall M2. Oral sessions and invited talk will also be streamed on Zoom. <strong>CONFIRM POSTER SESSIONS LOCATION</strong>
+All in-person activities will be held in Hall M2. Oral sessions and invited talk will also be streamed on Zoom.
 
 ### Thursday, July 31st
 
 <strong>09:00-09:30 Welcome and Introduction to SemEval</strong>: by Workshop Chairs
 
-<strong>09:30-10:30 Invited Talk, [Emily Allaway](https://emilyallaway.github.io/): TITLE OF THE TALK </strong>
+<strong>09:30-10:30 Invited Talk, [Emily Allaway](https://emilyallaway.github.io/): TBA </strong>
 
 <em>10:30-11:00 Coffee break</em>
 
