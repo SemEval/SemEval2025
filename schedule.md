@@ -59,10 +59,10 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
   - Chinchunmei at SemEval-2025 Task 11: Boosting the Large Language Model’s Capability of Emotion Perception using Contrastive Learning
   - UIMP-Aaman at SemEval-2025 Task11: Detecting Intensity and Emotion in Social Media and News
   - BERTastic at SemEval-2025 Task 10: State-of-the-Art Accuracy in Coarse-Grained Entity Framing for Hindi News
-  -  LTG at SemEval-2025 Task 10: Optimizing Context for Classification of Narrative Roles
+  - LTG at SemEval-2025 Task 10: Optimizing Context for Classification of Narrative Roles
   - CCNU at SemEval-2025 Task 3: Leveraging Internal and External Knowledge of Large Language Models for Multilingual Hallucination Annotation
   - MRT at SemEval-2025 Task 8: Maximizing Recovery from Tables with Multiple Steps
-  - Efficient adaptation of Large Language Models for Multilingual and Crosslingual Fact-Checked Claim Retrieval
+  - RACAI at SemEval-2025 Task 7: Efficient adaptation of Large Language Models for Multilingual and Crosslingual Fact-Checked Claim Retrieval
   - ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging
   - GPLSICORTEX at SemEval-2025 Task 10: Leveraging Intentions for Generating Narrative Extractions
   - Hallucination Detectives at SemEval-2025 Task 3: Span-Level Hallucination Detection for LLM-Generated Answers
