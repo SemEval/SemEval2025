@@ -120,7 +120,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
   - Amado at SemEval-2025 Task 11: Multi-label Emotion Detection in Amharic and English Data
   - NarrativeNexus at SemEval-2025 Task 10: Entity Framing and Narrative Extraction using BART
   - DEMON at SemEval-2025 Task 10: Fine-tuning LLaMA-3 for Multilingual Entity Framing
-  - JNLP SemEval 2025 Task 1 AdMIRe Multimodal Idiomaticity Representation 
+  - JNLP at SemEval-2025 Task 1: Multimodal Idiomaticity Representation with Large Language Models
   - HU at SemEval-2025 Task 9: Leveraging LLM-Based Data Augmentation for Class Imbalance
   - NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News
   - Habib University at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
