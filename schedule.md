@@ -166,17 +166,17 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 <details><summary><strong>14:00-15:30 Poster Session III: System Description Papers (in person only)</strong></summary>
 
-  - Class Weighting, External Knowledge and Data Augmentation in BERT Models
+  - Tuebingen at SemEval-2025 Task 10: Class Weighting, External Knowledge and Data Augmentation in BERT Models
   - NYCU-NLP at SemEval-2025 Task 11: Assembling Small Language Models for Multilabel Emotion Detection and Intensity Prediction
-  - SemEval-2025 Task 3: Detecting Hallucinations in LLMs via Uncertainty Quantification and Larger Model Validation
+  - MALTO at SemEval-2025 Task 3:  Detecting Hallucinations in LLMs via Uncertainty Quantification and Larger Model Validation
   - Habib University at SemEval-2025 Task 9: Using Ensemble Models for Food Hazard Detection
-  - Paper 276: iShumei-Chinchunmei at SemEval-2025 Task 4: A balanced forgetting and retention multi-task framework using effective unlearning loss
+  - iShumei-Chinchunmei at SemEval-2025 Task 4: A balanced forgetting and retention multi-task framework using effective unlearning loss
   - Atyaephyra at SemEval-2025 Task 4: Low-Rank Negative Preference Optimization
   - COGNAC at SemEval-2025 Task 10: Multi-level Narrative Classification with Summarization and Hierarchical Prompting
   - SheffieldGATE at SemEval-2025 Task 2: Multi-Stage Reasoning with Knowledge Fusion for Entity Translation
   - Fossils at SemEval-2025 Task 9: Tasting Loss Functions for Food Hazard Detection in Text Reports
   - Ustnlp16 at SemEval-2025 Task 9: Improving Model Performance through Imbalance Handling and Focal Loss
-  - GIL-IIMAS UNAM at SemEval-2025 Task 4. LA-Min(E): LLM Unlearning Approaches Under Function Minimizing Evaluation Constraints
+  - GIL-IIMAS UNAM at SemEval-2025 Task 4: LA-Min(E): LLM Unlearning Approaches Under Function Minimizing Evaluation Constraints
   - CIC-IPN at SemEval-2025 Task 11: Transformer-Based Approach to Multi-Class Emotion Detection
   - Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs Using Adaptive RMU
   - NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News
