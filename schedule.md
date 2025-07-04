@@ -48,10 +48,8 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - 15:00-15:15	SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 </details>
 
-<details><summary><strong>15:15-15:30 Oral Session III: Best Task Awards Announcement</strong></summary>
+<strong>15:15-15:30 Oral Session III: Best Task Awards Announcement</strong></summary>
   
-</details>
-
 <em>15:30-16:00 Coffee break</em>
 
 <details><summary><strong>16:00-17:30 Poster Session I (in person only)</strong></summary>
