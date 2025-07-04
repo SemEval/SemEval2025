@@ -14,7 +14,12 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 <strong>09:00-09:30 Welcome and Introduction to SemEval</strong>: by Workshop Chairs
 
-<strong>09:30-10:30 Invited Talk, [Emily Allaway](https://emilyallaway.github.io/): TBA </strong>
+<details><strong>09:30-10:30 Invited Talk, [Emily Allaway](https://emilyallaway.github.io/):  Lessons in generics: how language models grapple with human generalisation </strong>
+
+The ability to generalise is a crucial aspect of human cognition, allowing us to derive broader understandings from specific instances. In language, generalised knowledge over particular instantiations and exceptions can be flexibly expressed through generics — generalisations without quantifiers. However, the flexibility of generics also comes with puzzling properties that have been extensively studied in areas such as linguistics and philosophy of language. This talk will explore the specific challenges that this language of generalisation poses for language models (LMs).  I will begin by examining whether language models recognise the quantificational variation inherent in generics. Specifically, I will discuss how accurately LMs process and recognise the quantification in generic expressions, with a particular focus on the phenomenon of overgeneralisation — unwarranted universal quantification. One critical area of overgeneralisation is with stereotypes and I will touch on the implications for LMs of stereotypes that are expressed as generics. 
+Next, I will present evaluations on the capacity of LMs to reason about generics and related examples, probing LMs’ ability to both maintain and override their generalisations. In the final part of the talk, I will expand the discussion to visual-language models (VLMs) to determine whether their struggles with generics mirror those of traditional LMs and what the broader implications of these findings might be.
+
+</details>
 
 <em>10:30-11:00 Coffee break</em>
 
@@ -40,13 +45,11 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
   - 15:00-15:15	SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection
 </details>
 
-<details><summary><strong>15:15-15:35 Oral Session III: Best Task Awards</strong></summary>
+<details><summary><strong>15:15-15:30 Oral Session III: Best Task Awards Announcement</strong></summary>
   
-  - 15:15-15:25 Best System Description Paper 1
-  - 15:25-15:35	Best System Description Paper 2
 </details>
 
-<em>15:35-16:00 Coffee break</em>
+<em>15:30-16:00 Coffee break</em>
 
 <details><summary><strong>16:00-17:30 Poster Session I (in person only)</strong></summary>
 
@@ -157,7 +160,7 @@ All in-person activities will be held in Hall M2. Oral sessions and invited talk
 
 
 <details><summary><strong>11:00-12:00 Oral Session IV: Best System papers presentation</strong></summary>
-
+- Best system awards will be notified in advance and announced publicly at the conference.
 
 </details>
 
