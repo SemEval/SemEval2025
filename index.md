@@ -18,9 +18,9 @@ The submission webpage is: [SemEval2025 Task Proposal Submission](https://openre
 
  ## [SemEval-2025 tasks](tasks)
 
-<!---
+
 ### [SemEval-2025 program](schedule)
---->
+
 
 ### Important dates for task participants
 
