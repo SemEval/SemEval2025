@@ -96,7 +96,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
 
   - VerbaNexAI at SemEval-2025 Task 9: Advances and Challenges in the Automatic Detection of Food Hazards
   - CTYUN-AI at SemEval-2025 Task 1: Learning to Rank for Idiomatic Expressions
-  - TeleAI at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection with Prompt Engineering and Data Augmentation
   - Anastasia at SemEval-2025 Task 9: Subtask 1, Ensemble Learning with Data Augmentation and Focal Loss for Food Risk Classification
   - UNEDTeam at SemEval-2025 Task 10: Zero-Shot Narrative Classification
   - DUTtask10 at SemEval-2025 Task 10: ThoughtFlow: Hierarchical Narrative Classification via Stepwise Prompting
@@ -104,10 +103,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - CYUT at SemEval-2025 Task 6: Prompting with Precision – ESG Analysis via Structured Prompts
   - Zuifeng at SemEval-2025 Task 9: Multitask Learning with Fine-Tuned RoBERTa for Food Hazard Detection
   - FII the Best at SemEval 2025 Task 2: Steering State-of-the-art Machine Translation Models with Strategically Engineered Pipelines for Enhanced Entity Translation
-  - MRS at SemEval-2025 Task 11: A Hybrid Approach for Bridging the Gap in Text-Based Emotion Detection
   - madhans476 at SemEval-2025 Task 9: Multi-Model Ensemble and Prompt-Based Learning for Food Hazard Prediction
-  - GT-NLP at SemEval-2025 Task 11: EmoRationale, Evidence-Based Emotion Detection via Retrieval-Augmented Generation
-  - IASBS at SemEval-2025 Task 11: Ensembling Transformers for Bridging the Gap in Text-Based Emotion
   - Sakura at SemEval-2025 Task 2: Enhancing Named Entity Translation with Fine-Tuning and Preference Optimization
   - Anaselka at SemEval-2025 Task 9: Leveraging SVM and MNB for Detecting Food Hazard
   - QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval
@@ -132,7 +128,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - CSIRO LT at SemEval-2025 Task 8: Answering Questions over Tabular Data using LLMs
   - Oath Breakers at SemEval-2025 Task 06: Leveraging DeBERTa and Contrastive Learning for Promise Verification
   - CLaC at SemEval-2025 Task 6: A Multi-Architecture Approach for Corporate Environmental Promise Verification
-  - TeleAI at SemEval-2025 Task 8: Advancing Table Reasoning Framework  with Large Language Models
   - YNU-HPCC at SemEval-2025 Task 6: Using BERT Model with R-drop for Promise Verification
   - PATeam at SemEval-2025 Task 9: LLM-Augmented Fusion for AI-Driven Food Safety Hazard Detection
   - CSCU at SemEval-2025 Task 6: Enhancing Promise Verification with Paraphrase and Synthesis Augmentation: Effects on Model Performance
