@@ -78,7 +78,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - QMUL at SemEval-2025 Task 11: Explicit Emotion Detection with EmoLex, Feature Engineering, and Threshold-Optimized Multi-Label Classification
   - Team INSAntive at SemEval-2025 Task 10: Hierarchical Text Classification using BERT
   - SmurfCat at SemEval-2025 Task 3: Bridging External Knowledge and Model Uncertainty for Enhanced Hallucination Detection
-  - TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification
   - ipezoTU at SemEval-2025 Task 7: Hybrid Ensemble Retrieval for Multilingual Fact-Checking
   - ATLANTIS at SemEval-2025 Task 3: Detecting Hallucinated Text Spans in Question Answering
   - Samsung Research Poland at SemEval-2025 Task 8: LLM ensemble methods for QA over tabular data
@@ -179,7 +178,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - CIC-IPN at SemEval-2025 Task 11: Transformer-Based Approach to Multi-Class Emotion Detection
   - Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs Using Adaptive RMU
   - NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News
-  - NLP-Cimat at SemEval-2025 Task 11: Prompt Optimization for LLMs via Genetic Algorithms and Systematic Mutation applied on Emotion Detection
+  - TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification
   - UAlberta at SemEval-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation
   - Oath Breakers at SemEval-2025 Task 06: Leveraging DeBERTa and Contrastive Learning for Promise Verification
   - MALTO at SemEval-2025 Task 4: Dual Teachers for Unlearning Sensitive Content in LLMs
