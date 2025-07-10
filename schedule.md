@@ -86,6 +86,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - AILS-NTUA at SemEval-2025 Task 8: Language-to-Code prompting and Error Fixing for Tabular Question Answering
   - ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation
   - LA²I²F at SemEval-2025 Task 5: Reasoning in Embedding Space – Fusing Analogical and Ontology-based Reasoning for Document Subject Tagging
+  - final at SemEval-2025 Task 11: Enhancing Perceived Emotion Intensity Prediction with Boosting Fine-Tuned Transformers
 
 </details>
 
@@ -149,6 +150,10 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - Jim at SemEval-2025 Task 5: Multilingual BERT Ensemble
   - Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs
   - RUC Team at SemEval-2025 Task 5: Fast Automated Subject Indexing via Similar Records Matching and Related Subject Ranking
+  - Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models
+  - silp_nlp at SemEval-2025 Task 5: Subject Recommendation With Sentence Transformer
+  - Team Unibuc - NLP at SemEval-2025 Task 11: Few-shot text-based emotion detection
+  - GUIR at SemEval-2025 Task 4: Adaptive Weight Tuning with Gradual Negative Matching for LLM Unlearning
 
 </details>
 
@@ -196,6 +201,8 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - CAIDAS at SemEval-2025 Task 7: Enriching Sparse Datasets with LLM-Generated Content for Improved Information Retrieval
   - Swushroomsia at SemEval-2025 Task 3: Probing LLMs' Collective Intelligence for Multilingual Hallucination Detection
   - Tewodros at SemEval-2025 Task 11: Multilingual Emotion Intensity Detection using Small Language Models
+  - CHILL at SemEval-2025 Task 2: You Can’t Just Throw Entities and Hope - Make Your LLM to Get Them Right
+  - Narrlangen at SemEval-2025 Task 10: Comparing (mostly) simple multilingual approaches to narrative classification
 
 </details>
 
