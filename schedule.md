@@ -85,6 +85,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - Dataground at SemEval-2025 Task 8: Small LLMs and Preference Optimization for Tabular QA
   - AILS-NTUA at SemEval-2025 Task 8: Language-to-Code prompting and Error Fixing for Tabular Question Answering
   - ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation
+  - LA²I²F at SemEval-2025 Task 5: Reasoning in Embedding Space – Fusing Analogical and Ontology-based Reasoning for Document Subject Tagging
 
 </details>
 
@@ -192,7 +193,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - TIFIN India at SemEval-2025: Harnessing Translation to Overcome Multilingual IR Challenges in Fact-Checked Claim Retrieval
   - AKCIT at SemEval-2025 Task 11: Investigating Data Quality in Portuguese Emotion Recognition
   - RAGthoven at SemEval 2025   - Task 2: Enhancing Entity-Aware Machine Translation with Large Language Models, Retrieval Augmented Generation and Function Calling 
-  - LA²I²F at SemEval-2025 Task 5: Reasoning in Embedding Space – Fusing Analogical and Ontology-based Reasoning for Document Subject Tagging
   - CAIDAS at SemEval-2025 Task 7: Enriching Sparse Datasets with LLM-Generated Content for Improved Information Retrieval
   - Swushroomsia at SemEval-2025 Task 3: Probing LLMs' Collective Intelligence for Multilingual Hallucination Detection
   - Tewodros at SemEval-2025 Task 11: Multilingual Emotion Intensity Detection using Small Language Models
