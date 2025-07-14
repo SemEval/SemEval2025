@@ -86,7 +86,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - AILS-NTUA at SemEval-2025 Task 8: Language-to-Code prompting and Error Fixing for Tabular Question Answering
   - ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation
   - LA²I²F at SemEval-2025 Task 5: Reasoning in Embedding Space – Fusing Analogical and Ontology-based Reasoning for Document Subject Tagging
-  - final at SemEval-2025 Task 11: Enhancing Perceived Emotion Intensity Prediction with Boosting Fine-Tuned Transformers
+  - tinaal at SemEval-2025 Task 11: Enhancing Perceived Emotion Intensity Prediction with Boosting Fine-Tuned Transformers
 
 </details>
 
