@@ -153,7 +153,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models
   - silp_nlp at SemEval-2025 Task 5: Subject Recommendation With Sentence Transformer
   - Team Unibuc - NLP at SemEval-2025 Task 11: Few-shot text-based emotion detection
-  - GUIR at SemEval-2025 Task 4: Adaptive Weight Tuning with Gradual Negative Matching for LLM Unlearning
 
 </details>
 
