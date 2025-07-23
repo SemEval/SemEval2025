@@ -8,7 +8,9 @@ title: SemEval-2025 Schedule
 
 Online poster sessions will be held on Gather. 
 
-All in-person activities will be held in Hall M2. Oral sessions and invited talk will also be streamed on Zoom.
+In-person presentations will be held in <strong>Hall M2</strong>. Oral sessions and invited talk will also be streamed on Zoom.
+
+In-person poster sessions will be in <strong>Exhibit Hall X5</strong>.
 
 ### Thursday, July 31st
 
