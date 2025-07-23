@@ -52,7 +52,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   
 <em>15:30-16:00 Coffee break</em>
 
-<details><summary><strong>16:00-17:30 Poster Session I (in person only)</strong></summary>
+<details><summary><strong>16:00-17:30 Poster Session I: System Description Papers(in person only)</strong></summary>
 
   - NotMyNarrative at SemEval-2025 Task 10: Do Narrative Features Share Across Languages in Multilingual Encoder Models?
   - UWBa at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval
@@ -202,6 +202,8 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - Tewodros at SemEval-2025 Task 11: Multilingual Emotion Intensity Detection using Small Language Models
   - CHILL at SemEval-2025 Task 2: You Can’t Just Throw Entities and Hope - Make Your LLM to Get Them Right
   - Narrlangen at SemEval-2025 Task 10: Comparing (mostly) simple multilingual approaches to narrative classification
+  - LATE-GIL-NLP at Semeval-2025 Task 10: Exploring LLMs and transformers for Characterization and extraction of narratives from online news
+  - LATE-GIL-NLP at SemEval-2025 Task 11: Multi-Language Emotion Detection and Intensity Classification Using Transformer Models with Optimized Loss Functions for Imbalanced Data
 
 </details>
 
