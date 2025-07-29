@@ -78,7 +78,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - CCNU at SemEval-2025 Task 8: Enhancing Question Answering on Tabular Data with Two-Stage Corrections
   - SALT 🧂 at SemEval-2025 Task 2: A SQL-based Approach for LLM-Free Entity-Aware-Translation
   - QMUL at SemEval-2025 Task 11: Explicit Emotion Detection with EmoLex, Feature Engineering, and Threshold-Optimized Multi-Label Classification
-  - Team INSAntive at SemEval-2025 Task 10: Hierarchical Text Classification using BERT
   - SmurfCat at SemEval-2025 Task 3: Bridging External Knowledge and Model Uncertainty for Enhanced Hallucination Detection
   - ipezoTU at SemEval-2025 Task 7: Hybrid Ensemble Retrieval for Multilingual Fact-Checking
   - ATLANTIS at SemEval-2025 Task 3: Detecting Hallucinated Text Spans in Question Answering
@@ -89,6 +88,8 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation
   - LA²I²F at SemEval-2025 Task 5: Reasoning in Embedding Space – Fusing Analogical and Ontology-based Reasoning for Document Subject Tagging
   - tinaal at SemEval-2025 Task 11: Enhancing Perceived Emotion Intensity Prediction with Boosting Fine-Tuned Transformers
+  - AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection
+  - AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking
 
 </details>
 
@@ -109,15 +110,12 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - madhans476 at SemEval-2025 Task 9: Multi-Model Ensemble and Prompt-Based Learning for Food Hazard Prediction
   - Sakura at SemEval-2025 Task 2: Enhancing Named Entity Translation with Fine-Tuning and Preference Optimization
   - Anaselka at SemEval-2025 Task 9: Leveraging SVM and MNB for Detecting Food Hazard
-  - QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval
   - Trans-Sent at SemEval-2025 Task 11: Text-based Multi-label Emotion Detection using Pre-Trained BERT Transformer Models
   - Team INSALyon2 at SemEval-2025 Task 10: A Zero-shot Agentic Approach to Text Classification
   - SRCB at SemEval-2025 Task 9: LLM Finetuning Approach based on External Attention Mechanism in The Food Hazard Detection
-  - Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing
   - Advacheck at SemEval-2025 Task 3: Combining NER and RAG to Spot Hallucinations in LLM Answers
   - VerbaNexAI at SemEval-2025 Task 2: Enhancing Entity-Aware Translation with Wikidata-Enriched MarianMT
   - CSECU-Learners at SemEval-2025 Task 9: Enhancing Transformer Model for Explainable Food Hazard Detection in Text
-  - AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection
   - UPC-HLE at SemEval-2025 Task 7: Multilingual Fact-Checked Claim Retrieval with Text Embedding Models and Cross-Encoder Re-Ranking
   - CSECU-Learners at SemEval-2025 Task 11: Multilingual Emotion Recognition and Intensity Prediction with Language-tuned Transformers and Multi-sample Dropout
   - Amado at SemEval-2025 Task 11: Multi-label Emotion Detection in Amharic and English Data
@@ -180,7 +178,6 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - COGNAC at SemEval-2025 Task 10: Multi-level Narrative Classification with Summarization and Hierarchical Prompting
   - SheffieldGATE at SemEval-2025 Task 2: Multi-Stage Reasoning with Knowledge Fusion for Entity Translation
   - Fossils at SemEval-2025 Task 9: Tasting Loss Functions for Food Hazard Detection in Text Reports
-  - Ustnlp16 at SemEval-2025 Task 9: Improving Model Performance through Imbalance Handling and Focal Loss
   - GIL-IIMAS UNAM at SemEval-2025 Task 4: LA-Min(E): LLM Unlearning Approaches Under Function Minimizing Evaluation Constraints
   - CIC-IPN at SemEval-2025 Task 11: Transformer-Based Approach to Multi-Class Emotion Detection
   - Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs Using Adaptive RMU
@@ -206,6 +203,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - Narrlangen at SemEval-2025 Task 10: Comparing (mostly) simple multilingual approaches to narrative classification
   - LATE-GIL-NLP at Semeval-2025 Task 10: Exploring LLMs and transformers for Characterization and extraction of narratives from online news
   - LATE-GIL-NLP at SemEval-2025 Task 11: Multi-Language Emotion Detection and Intensity Classification Using Transformer Models with Optimized Loss Functions for Imbalanced Data
+  - Team INSAntive at SemEval-2025 Task 10: Hierarchical Text Classification using BERT
 
 </details>
 
