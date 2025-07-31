@@ -181,14 +181,11 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - GIL-IIMAS UNAM at SemEval-2025 Task 4: LA-Min(E): LLM Unlearning Approaches Under Function Minimizing Evaluation Constraints
   - CIC-IPN at SemEval-2025 Task 11: Transformer-Based Approach to Multi-Class Emotion Detection
   - Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs Using Adaptive RMU
-  - NarrativeMiners at SemEval-2025 Task 10: Combating Manipulative Narratives in Online News
   - TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification
   - UAlberta at SemEval-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation
-  - Oath Breakers at SemEval-2025 Task 06: Leveraging DeBERTa and Contrastive Learning for Promise Verification
   - MALTO at SemEval-2025 Task 4: Dual Teachers for Unlearning Sensitive Content in LLMs
   - TueCL at SemEval-2025 Task 1: AdMIRe: Advancing Multimodal  Idiomaticity Representation
   - Wikidata-Driven Entity-Aware Translation: Boosting LLMs with External Knowledge
-  - UCSC at SemEval-2025 Task 3: Context, Models and Prompt Optimization for Automated Hallucination Detection in LLM Output
   - COGUMELO at SemEval-2025 Task 3: A Synthetic Approach to Detecting Hallucinations in Language Models based on Named Entity Recognition
   - FactDebug at SemEval-2025 Task 7: Hybrid Retrieval Pipeline for Identifying Previously Fact-Checked Claims Across Multiple Languages
   - HiTZ-Ixa at SemEval-2025 Task 1: Multimodal Idiomatic Language Understanding
@@ -204,6 +201,7 @@ Bio: Emily Allaway is a Chancellor’s Fellow at the University of Edinburgh in 
   - LATE-GIL-NLP at Semeval-2025 Task 10: Exploring LLMs and transformers for Characterization and extraction of narratives from online news
   - LATE-GIL-NLP at SemEval-2025 Task 11: Multi-Language Emotion Detection and Intensity Classification Using Transformer Models with Optimized Loss Functions for Imbalanced Data
   - Team INSAntive at SemEval-2025 Task 10: Hierarchical Text Classification using BERT
+  - GIL-IIMAS UNAM at SemEval-2025 Task 3: MeSSI: A Multimodule System to Detect Hallucinated Segments in Trivia-Like Inquiries
 
 </details>
 
